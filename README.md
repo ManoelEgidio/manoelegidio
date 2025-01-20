@@ -39,7 +39,7 @@
 ---
 
 ### 📊 Estatísticas do GitHub  
-![Manoel Egidio GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)  
+![Manoel Egidio GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManoelEgidio&show_icons=true&theme=radical)  
 
 ---
 
