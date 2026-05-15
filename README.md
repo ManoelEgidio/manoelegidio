@@ -1,42 +1,21 @@
 ## < Software Engineer / Full Stack Developer - Manoel Egidio Maciel Neto />
 <br>
 
-### Olá! Sou um estudante de Engenharia de Software apaixonado por tecnologia e inovação. 👨🏿‍💻  
+Sou desenvolvedor Full Stack, atuando de ponta a ponta na engenharia de software (back-end e front-end). Tenho experiência criando sistemas completos, de aplicações corporativas a produtos SaaS, sempre com foco em segurança, escalabilidade e manutenção simples.
 
----
+🚀 Já trabalhei em diferentes arquiteturas, de monólitos a microsserviços, e gosto de escolher a abordagem certa para cada desafio. No back-end, tenho prática em construir APIs robustas do zero, implementar integrações complexas (como gateways de pagamento e integrações fiscais) e arquitetar soluções seguras (OAuth2/JWT). Também cuido de deploy e manutenção em ambientes de nuvem (GCP, AWS) com pipelines de CI/CD e soluções serverless.
 
-### 🛠️ Habilidades em Front-end  
-<div style="display: inline-block;"><br>
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-    <img alt="PrimeNG" src="https://img.shields.io/badge/PrimeNG-35495E?style=for-the-badge&logo=primeng&logoColor=white"/>
-    <img alt="Angular Material" src="https://img.shields.io/badge/Angular_Material-E91E63?style=for-the-badge&logo=angular-material&logoColor=white"/>
-</div>
-<br>
+🔍 No front-end, desenvolvo aplicações web dinâmicas e modernas (Angular/React), integrando APIs RESTful e WebSockets. Valorizo muito a performance e a estabilidade da interface, garantindo a qualidade das entregas através de testes automatizados (Cypress, Vitest). Projéto soluções stateless, escaláveis e resilientes, equilibrando velocidade e custo-benefício.
 
----
+💻 Stack principal:
 
-### 🛠️ Habilidades em Back-end  
-<div style="display: inline-block;"><br>
-    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-    <img alt="Flyway" src="https://img.shields.io/badge/Flyway-EF2D5E?style=for-the-badge&logo=flyway&logoColor=white"/>
-    <img alt="GraalVM" src="https://img.shields.io/badge/GraalVM-2C5282?style=for-the-badge&logo=graalvm&logoColor=white"/>
-    <img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</div>
-<br>
+Back-end: Java (Spring Boot), Node.js e Go}
+Front-end: Angular, React/Next.js, TypeScript, SCSS, Cypress, Vitest
+Bancos de dados: PostgreSQL, MongoDB, Redis
+Infraestrutura: Docker, GCP, AWS, CI/CD, Serverless
+Arquitetura & Complementares: APIs RESTful, WebSocket, OAuth2, Flyway, Elasticsearch, Sentry, Monorepo, Scrum/Kanban
 
----
+No fim, meu objetivo é simples: entender como as peças se conectam, da arquitetura e banco de dados à experiência final do usuário, e construir soluções que realmente funcionem.
 
 ### 📊 Estatísticas do GitHub  
 ![Manoel Egidio GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManoelEgidio&show_icons=true&theme=radical)  
